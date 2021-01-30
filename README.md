@@ -1,4 +1,4 @@
-# Игра "Гоночки", реализованная на Javascript - Учебный проект
+# Игра "Гоночки", на Javascript - Учебный проект
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/need-for-js/](https://sonikflame.github.io/need-for-js/).
 
